@@ -7,7 +7,8 @@
 .App {
     width: 100vw;
     height: 100vh;
-    background-image: url('./images/bg.jpg');
+    // background-image: url('../images/bg.jpg');
+    background-color: #212121;
     background-size: 100%;
-    background-repeat: no-repeat;
+    background-repeat: repeat;
 }
